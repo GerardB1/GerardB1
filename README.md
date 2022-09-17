@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GerardB1
 - 👀 I’m interested in learning java and blockchain and crypto
 - 🌱 I’m currently learning java and javascript 
-- 💞️ I’m looking to collaborate on blockchain projects 
+- 💞️ I’m looking to collaborate on blockchain projects or something else 
 - 📫 How to reach me, you can find me on twitter: @gerardborn1
 
 <!---
